@@ -1,0 +1,96 @@
+.img{
+    height: 548px;
+   width: 50%;
+    float: right;
+background-image: url('https://i.pinimg.com/564x/18/d9/c0/18d9c007c5e242ca201a0eace01fee28.jpg');
+}
+.h4-class{
+    
+font-family: monospace;
+font-size: 15px;
+color: goldenrod;
+float: left;
+/* margin-top: 125px;
+margin-left: 51px; */
+}
+.h1-class{
+    font-size: 65px;
+    font-family: ui-monospace;
+    margin: 0;
+    /* margin: 0 -63px; */
+    /* margin-top: 201px; */
+    /* margin-top: 148px; */
+}
+.para-class{
+    font-family: system-ui;
+    width:  58%;
+
+    /* margin: 10px 41px; */
+}
+.h1-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.button-shop{
+    border: 1px solid goldenrod;
+    padding: 14px 31px;
+    color: white;
+    background: goldenrod;
+    font-family: sans-serif;
+    margin-top: 11px;
+    /* margin-left: 52px;
+    margin-top: 15px; */
+}
+
+.baner-1{
+    background-image: url('https://preview.colorlib.com/theme/fashi/img/banner-1.jpg');
+    height: 220px;
+    width: 365px;
+    position: relative;
+}
+
+.baner-2{
+    background-image:url("https://preview.colorlib.com/theme/fashi/img/banner-2.jpg");
+    height: 220px;
+    width: 365px;
+    position: relative;
+}
+
+.baner-3{
+    background-image:url('https://preview.colorlib.com/theme/fashi/img/banner-3.jpg');
+    height: 220px;
+    width: 365px;
+    position: relative;
+}
+.baner{
+    display: flex;
+    flex-direction: row;
+    margin-top: 95px;
+    justify-content: space-evenly;
+    padding: 0px 53px;
+}
+.main-page{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin: auto;
+
+}
+.mens{
+        /* padding: 10px 31px; */
+        background: white;
+        font-family: system-ui;
+        font-size: 17px;
+        height: 34px;
+        width: 78px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    
+}

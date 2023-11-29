@@ -1,0 +1,9 @@
+.footers{
+    background-color:rgb(36, 35, 35);
+    color:white;
+    margin-top: 71px;
+}
+.display{
+    cursor: pointer;
+    align-items:flex-start;
+}

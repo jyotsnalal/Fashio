@@ -1,0 +1,202 @@
+.cards {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    max-width: 17rem;
+    position: relative;
+    border: 1px solid #ccc;
+    width: 312px;
+  }
+  .para-graph{
+    font-family: sans-serif;
+    margin: 14px;
+    line-height: 1.4285em;
+    font-size: 18px;
+  }
+  .card-headers {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+       margin: auto;
+  }
+  .cut-out{
+    text-decoration: line-through;
+    color: rgb(197, 192, 192);
+    font-size: 16px;
+    padding-right: 40px
+  }
+  .card-headers .price {
+    color: goldenrod;
+    /* margin: auto; */
+    font-size: 19px;
+    font-weight: 700;
+    padding-left: 43px;
+    
+  }
+  
+  .card-images {
+    width: 100%;
+    height: 16rem;
+    max-width: 100%;
+    object-fit: contain;
+  }
+  .texts-infos{
+    padding: 1rem 1.5rem;
+    margin-bottom: 2.5rem;
+    color: #000;
+    font-weight: 200;
+  }
+
+  .women-div-mains{
+    display: flex;
+    margin: 48px 16px;
+    flex-wrap: wrap;
+    gap: 36px;
+
+
+}
+
+.cart arrow down small icon{
+  line-height: 1;
+    font-size: 1.25em;
+   
+}
+
+.icons{
+  font-size: 1.25em;
+   
+}
+.span-count{
+  position: absolute;
+  background: red;
+  color: white;
+  border-radius: 17px;
+  padding: 0px 4px;
+  left: 17px;
+  top: -10px;
+  font-size: 11px;
+}
+
+.icon-class{
+  margin-right: 119px;
+    margin-top: 28px;
+}
+.main-div-womenPage{
+  display: flex;
+  font-family: sans-serif;
+}
+.categories-div{
+  margin-top: 68px;
+  margin-bottom: 34px;
+  font-family: sans-serif;
+}
+.category {
+  text-align: initial;
+}
+.brands-div{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+    margin-top: 16px;
+    font-family: sans-serif;
+}
+.calvin-class{
+  display: flex;
+  padding-bottom: 11px;
+  font-family: sans-serif;
+  gap: 4px;
+}
+
+.diesel-class{
+  display: flex;
+  padding-bottom: 11px;
+  font-family: sans-serif;
+  gap: 4px;
+}
+
+.polo-div{
+  display: flex;
+  padding-bottom: 11px;
+  font-family: sans-serif;
+  gap: 4px;
+}
+.tommy-div{
+  display: flex;
+  padding-bottom: 11px;
+  font-family: sans-serif;
+  gap: 4px;
+}
+.cate-div{
+  margin-top: 17px;
+    text-align: left;
+    font-family: sans-serif;
+    
+}
+.brands-div-main{
+ text-align: left;
+}
+.tags-div{
+  text-align: initial;
+  font-family: sans-serif;
+}
+.main-tag-div{
+  display: flex;
+  flex-direction: column;
+}
+.child-tag{
+  text-align: initial;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+.child-tag1{
+  text-align: initial;
+    margin-bottom: 10px;
+}
+.child-tag2{
+  text-align: initial;
+    margin-bottom: 10px;
+}
+.child-tag3{
+  text-align: initial;
+    margin-bottom: 10px;
+}
+.child-tag4{
+  text-align: initial;
+  margin-bottom: 10px;
+}
+.button-tag{
+  font-family: sans-serif;
+  padding: 7px 9px;
+  border: 1px solid grey;
+
+  background-color: transparent;
+}
+
+.color-div{
+  display: flex;
+  flex-direction: column;
+  /* margin-left: 72px; */
+  margin-top: 16px;
+  text-align: initial;
+  font-family: sans-serif;
+}
+.child-color{
+width: 50%;
+text-align: initial;
+}
+.child-color2{
+  width: 50%;
+  text-align: initial;
+}
+.color-div-1{
+  display: flex;
+  margin-top: 18px;
+}
+.button-tag1{
+  margin-left:12px;
+  font-family: sans-serif;
+  padding: 7px 9px;
+  border: 1px solid grey;
+
+  background-color: transparent;
+}

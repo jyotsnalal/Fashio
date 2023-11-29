@@ -1,0 +1,183 @@
+.card-container {
+  display: flex;
+  margin: 48px 16px;
+  flex-wrap: wrap;
+  gap: 28px;
+  height: 55%;
+}
+
+.card-content-h1 {
+  font-size: 29px;
+  font-family: "Lato";
+}
+
+.card-content {
+  align-items: initial;
+  font-family: "Lato";
+}
+
+.content-blog {
+  text-align: initial;
+  margin-top: 14px;
+  font-family: "Lato";
+}
+
+.card {
+  height: 59%;
+  display: flex;
+  flex-direction: column;
+  max-width: 37rem;
+  position: relative;
+  width: 379px;
+  border: transparent;
+}
+.card-blog-images {
+  height: 257px;
+  width: 376px;
+}
+.h1-blog-content {
+  font-family: "Lato";
+  width: 377px;
+  font-size: 26px;
+}
+.search-blog {
+  margin-top: 20%;
+  text-align: initial;
+  font-family: "Lato";
+}
+
+.input-field {
+  padding: 8px 26px;
+  font-family: "Lato";
+}
+.category-blog {
+  text-align: initial;
+  margin-top: 14%;
+  font-family: "Lato";
+}
+.h1-category-blog {
+  font-family: "Lato";
+  font-size: 16px;
+}
+.recent-post {
+  text-align: left;
+  margin-top: 13%;
+}
+
+.img-recent {
+  height: 83px;
+  margin-top: 6px;
+  width: 101px;
+}
+.div-content-recent {
+  margin: 0px 9px;
+  font-family: "Lato";
+  font-weight: 800;
+}
+.p-recent {
+  font-size: 16px;
+  margin: 0;
+}
+
+.p2-recent {
+  letter-spacing: 1px;
+  color: goldenrod;
+  margin-top: 6px;
+}
+.card-recent {
+  display: flex;
+  margin-bottom: 27px;
+}
+
+.date-recent {
+  color: darkgrey;
+  letter-spacing: 0;
+}
+
+.span-date {
+  color: darkgrey;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.travel-class {
+  letter-spacing: 1px;
+  color: goldenrod;
+  font-weight: 700;
+}
+
+.div-products {
+  text-align: initial;
+  font-family: "Lato";
+}
+
+.main-div-blog {
+  display: flex;
+  flex-direction: column;
+}
+
+.child-div-blog {
+  text-align: initial;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.book {
+  font-family: sans-serif;
+  padding: 7px 24px;
+  border: 1px solid #000;
+  margin-right: 18px;
+  background-color: transparent;
+  font-family: "Lato";
+  font-size: 16px;
+}
+
+.homes {
+  font-family: sans-serif;
+  padding: 7px 24px;
+  border: 1px solid #000;
+  margin-right: 18px;
+  background-color: transparent;
+  font-family: "Lato";
+  font-size: 16px;
+}
+
+.cups {
+  font-family: sans-serif;
+  padding: 7px 24px;
+  border: 1px solid #000;
+  margin-right: 18px;
+  background-color: transparent;
+  font-family: "Lato";
+  font-size: 16px;
+}
+
+.cars {
+  font-family: sans-serif;
+  padding: 7px 31px;
+  border: 1px solid #000;
+  margin-right: 18px;
+  background-color: transparent;
+  font-family: "Lato";
+  font-size: 16px;
+}
+
+.flower {
+  font-family: sans-serif;
+  padding: 7px 24px;
+  border: 1px solid #000;
+  margin-right: 18px;
+  background-color: transparent;
+  font-family: "Lato";
+  font-size: 16px;
+}
+
+.jhula {
+  font-family: sans-serif;
+  padding: 7px 24px;
+  border: 1px solid #000;
+  margin-right: 18px;
+  background-color: transparent;
+  font-family: "Lato";
+  font-size: 16px;
+}

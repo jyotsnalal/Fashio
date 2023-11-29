@@ -1,0 +1,59 @@
+.container-nav {
+  background-color: black;
+  width: 100%;
+  position: relative;
+  justify-content: space-around;
+}
+
+.ul-main {
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+
+}
+
+.li-main {
+  position: relative;
+  padding: 25px 43px;
+  border: 1px solid darkslategray;
+}
+
+.li-main > a  {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.ul-main :hover {
+  color: white;
+  background-color: goldenrod;
+}
+
+.li-menu {
+  text-decoration: none;
+  list-style-type: none;
+  padding: 20px 0px;
+  
+  /* border: 1px solid darkgray; */
+}
+.ul-menu {
+  position: absolute;
+  top: 74px;
+  padding: 0;
+  left: 0;
+  background-color: black !important;
+  width: -webkit-fill-available;
+  visibility: hidden;
+}
+
+.ul-menu :hover {
+  background-color: black;
+}
+
+.li-menu :hover {
+  color: goldenrod;
+}
+/* .ul-main:hover .ul-menu{
+  visibility: visible;
+} */
+
